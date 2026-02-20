@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "email": "23f3001363@ds.study.iitm.ac.in",
+    "version": "b5974309"
+  },
+  "products": [
+    { "id": 1, "name": "Sofa", "category": "home", "price": 12000.50, "stock": 2, "rating": 4.5 },
+    { "id": 2, "name": "Dining Table", "category": "home", "price": 15000.00, "stock": 1, "rating": 4.7 },
+    { "id": 3, "name": "Bed Frame", "category": "home", "price": 10000.00, "stock": 3, "rating": 4.3 },
+    { "id": 4, "name": "Wardrobe", "category": "home", "price": 8000.00, "stock": 2, "rating": 4.2 },
+    { "id": 5, "name": "Lamp", "category": "home", "price": 2000.00, "stock": 5, "rating": 4.6 },
+    { "id": 6, "name": "Carpet", "category": "home", "price": 2352.07, "stock": 1, "rating": 4.4 },
+
+    { "id": 7, "name": "Laptop", "category": "electronics", "price": 55000, "stock": 5, "rating": 4.8 },
+    { "id": 8, "name": "Headphones", "category": "electronics", "price": 2500, "stock": 10, "rating": 4.2 },
+    { "id": 9, "name": "Smartphone", "category": "electronics", "price": 30000, "stock": 8, "rating": 4.6 },
+    { "id": 10, "name": "Monitor", "category": "electronics", "price": 12000, "stock": 4, "rating": 4.5 },
+
+    { "id": 11, "name": "T-Shirt", "category": "fashion", "price": 800, "stock": 20, "rating": 4.1 },
+    { "id": 12, "name": "Jeans", "category": "fashion", "price": 2000, "stock": 15, "rating": 4.3 },
+    { "id": 13, "name": "Jacket", "category": "fashion", "price": 3500, "stock": 7, "rating": 4.6 },
+    { "id": 14, "name": "Sneakers", "category": "fashion", "price": 4000, "stock": 6, "rating": 4.7 },
+
+    { "id": 15, "name": "Notebook", "category": "stationery", "price": 50, "stock": 100, "rating": 4.0 },
+    { "id": 16, "name": "Pen Set", "category": "stationery", "price": 150, "stock": 50, "rating": 4.2 },
+    { "id": 17, "name": "Backpack", "category": "stationery", "price": 1200, "stock": 12, "rating": 4.5 }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 6,
+      "inventoryValue": 53352.57
+    }
+  }
+}
